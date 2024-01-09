@@ -9,12 +9,13 @@
 ## 📲 My Links
 
 - 🎨 My latest big pet-project with Vue is [carsell-web-app](https://github.com/Honchar007/carsell-web-app)
-- 🎨 My latest pet-project with React is [bicycle-test-work](https://github.com/Honchar007/bicycle-test-work)
+- 🚍 My latest pet-project with React is [bicycle-test-work](https://github.com/Honchar007/bicycle-test-work)
+- ➡️ My CV is [here](https://github.com/Honchar007/Honchar007/blob/main/AndreyHonchar_CV.pdf)
 
 ## 💡 About Me
 
 - 📖 I`m learning React, Vue, Node.js
-- 🎮 My hobbies are learning new frameworks
+- 🎮 My hobbies is to upgrade yourself
 - 💌 You can write to me at helloworldandrey@gmail.com
 - 🌈 My dream is to be Senior Full-stack or Front-end dev
 - 😃 Fun fact about me my idol is me in 10 years
