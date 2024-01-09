@@ -1,6 +1,10 @@
-<p align="center"> #🏠 Hello👋, my name is Andrey </p>
+<h1 align="center">🏠 Hello👋, my name is Andrey</h1>
 
-<p align="center">### I have been working with frontend since 2019, and I love it 🔮🔮🔮</p>
+<h3 align="center">I have been working with frontend since 2019, and I love it 🔮🔮🔮</h3>
+
+<p align="center">
+  <a href='https://www.codewars.com/users/VitZkh'><img src="https://www.codewars.com/users/Andrey20023/badges/large" alt="CodeWars"/></a>
+</p>
 
 ## 📲 My Links
 
