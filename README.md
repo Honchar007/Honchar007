@@ -1,4 +1,4 @@
-<h1 align="center">🏠 Hello👋, my name is Andrey</h1>
+<h1 align="center">🏠 Hello👋, I am Andrey</h1>
 
 <h3 align="center">I have been working with frontend since 2019, and I love it 🔮🔮🔮</h3>
 
@@ -10,7 +10,7 @@
 
 - 🎨 My latest big pet-project with Vue is [carsell-web-app](https://github.com/Honchar007/carsell-web-app)
 - 🚍 My latest pet-project with React is [bicycle-test-work](https://github.com/Honchar007/bicycle-test-work)
-- ➡️ My CV is [here](https://github.com/Honchar007/Honchar007/blob/main/AndreyHonchar_CV.pdf)
+- ➡️ My CV is [here](https://github.com/Honchar007/Profile/blob/main/AndreyHonchar_CV.pdf)
 
 ## 💡 About Me
 
@@ -24,6 +24,14 @@
 | Company | Years | Position | Stack |
 | :------------ | :----------- | :----------- | :----------- |
 | Aegas | 2021-2022 | Junior Front-end Dev | React, Redux, Vue, Vuex, JavaScript, TypeScript, Axios, Scss, Sass |
+
+
+
+## ✍️ Education
+| University | Years | Degree | Field |
+| :------------ | :----------- | :----------- | :----------- |
+| National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” | 2019-2023 | Bachelor | Computer Science |
+| Petro Mohyla Black Sea National University | 2023-2024 | Master | Computer Science |
 
 
 
