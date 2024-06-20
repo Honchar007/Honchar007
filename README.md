@@ -9,7 +9,7 @@
 ## 📲 My Links
 
 - 🎨 My latest big pet project with Vue is [carsell-web-app](https://github.com/Honchar007/carsell-web-app)
-- 🚍 My latest pet project with React is [bicycle-test-work](https://github.com/Honchar007/bicycle-test-work)
+- 🚍 My latest big pet project with React is [sales-assistant](https://github.com/Honchar007/sales-assistant)
 - ➡️ My CV is [here](https://github.com/Honchar007/Profile/blob/main/AndreyHonchar_CV.pdf)
 
 ## 📰 Social links
