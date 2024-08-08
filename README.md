@@ -28,7 +28,7 @@
 ## 💻 Work Experience
 | Company | Years | Position | Stack |
 | :------------ | :----------- | :----------- | :----------- |
-| Aegas | 2021-2022 | Junior Front-end Dev | React, Redux, Vue, Vuex, JavaScript, TypeScript, Axios, Scss, Sass |
+| Aegas | 2022-2024 | Junior Front-end Dev | React, Redux, Vue, Vuex, JavaScript, TypeScript, Axios, Scss, Sass |
 
 
 
